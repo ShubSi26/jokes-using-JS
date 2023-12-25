@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: center;
+}
+#jokebox{
+    border: 10px solid yellow;
+    width: 50%;
+    margin-top: 20%;
+    padding: 15px;
+    border-radius: 30px;
+    font-size: 40px;
+    background-color: pink;
+    text-align: center;
+}
